@@ -65,9 +65,21 @@ form .button{
   .bc{
       /* border: 2px solid black; */
       margin: 40px 104px;
+      display: flex;
+      align-items: center;
+
+      justify-content: center;
+      
   }
 
 
 h1{
     text-align: center;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    right:10px
 }

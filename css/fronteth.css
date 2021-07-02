@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background:linear-gradient(135deg,#71b7e6,#9b59b6) ;
+
+
+}
+.button{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+ 
+    
+    
+
+}
+.flexboxr{
+    background-color: red;
+}
+.wrapper{
+background-color: white;
+height: 600px;
+width: 900px;
+border-radius: 20px;
+
+
+
+
+
+}
+.flex11{
+   
+}
+.flexx{
+display: flex;
+
+padding: 10px;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-around;
+}
+.This{
+
+    height: 40px;
+    width: 400px;
+
+}
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+.boc{
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+.address{
+    height: 400px;
+    height: 200px;
+    margin-top: 20px;
+    background-color: #9b59b6;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 3px dotted black;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-right: 50px;
+}
+
