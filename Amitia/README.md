@@ -1,2 +1,0 @@
-# Amitia
-KKKKKK
