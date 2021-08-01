@@ -84,4 +84,18 @@ justify-content: space-around;
     margin-right: 5px;
     padding-right: 50px;
 }
+.flexx{
+    display: flex;
+  /*  border: 1px solid black;*/
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+#flex11{
+    display: flex;
+    padding: 10px;
+  /*  border: 1px solid black;*/
+}
 
